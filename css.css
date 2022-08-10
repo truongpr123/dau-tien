@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    width: 100%;
+    display: flex;
+    background-color: #ccc;
+}
+
+.header-im {
+    width: 33.33333%;
+}
+
+
+.header-ip {
+    width: 33.33333%;
+}
+
+.header-ip input {
+    width: 200px;
+}
+
+.header-ic {
+    width: 33.33333%;
+}
+
+.header-ic p {
+    float: left;
+}
